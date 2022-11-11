@@ -2,7 +2,7 @@
   "parent": "minecraft:block/orientable",
   "textures": {
     "front": "noextraenergy:block/electric_furnace_front_closed_off",
-    "side": "noextraenergy:block/electric_furnace_side",
-    "top": "noextraenergy:block/electric_furnace_side"
+    "side": "noextraenergy:block/iron_casing",
+    "top": "noextraenergy:block/iron_casing"
   }
 }

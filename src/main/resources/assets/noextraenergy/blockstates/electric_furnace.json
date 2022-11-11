@@ -1,8 +1,5 @@
 {
   "variants": {
-    "": {
-      "model": "noextraenergy:block/electric_furnace_closed_off"
-    },
     "on=false,opened=false,facing=north": {
       "model": "noextraenergy:block/electric_furnace_closed_off"
     },
