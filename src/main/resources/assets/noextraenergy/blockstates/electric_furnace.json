@@ -1,0 +1,70 @@
+{
+  "variants": {
+    "": {
+      "model": "noextraenergy:block/electric_furnace_closed_off"
+    },
+    "on=false,opened=false,facing=north": {
+      "model": "noextraenergy:block/electric_furnace_closed_off"
+    },
+    "on=false,opened=false,facing=east": {
+      "model": "noextraenergy:block/electric_furnace_closed_off",
+      "y": 90
+    },
+    "on=false,opened=false,facing=south": {
+      "model": "noextraenergy:block/electric_furnace_closed_off",
+      "y": 180
+    },
+    "on=false,opened=false,facing=west": {
+      "model": "noextraenergy:block/electric_furnace_closed_off",
+      "y": 270
+    },
+
+    "on=true,opened=false,facing=north": {
+      "model": "noextraenergy:block/electric_furnace_closed_on"
+    },
+    "on=true,opened=false,facing=east": {
+      "model": "noextraenergy:block/electric_furnace_closed_on",
+      "y": 90
+    },
+    "on=true,opened=false,facing=south": {
+      "model": "noextraenergy:block/electric_furnace_closed_on",
+      "y": 180
+    },
+    "on=true,opened=false,facing=west": {
+      "model": "noextraenergy:block/electric_furnace_closed_on",
+      "y": 270
+    },
+
+    "on=false,opened=true,facing=north": {
+      "model": "noextraenergy:block/electric_furnace_opened_off"
+    },
+    "on=false,opened=true,facing=east": {
+      "model": "noextraenergy:block/electric_furnace_opened_off",
+      "y": 90
+    },
+    "on=false,opened=true,facing=south": {
+      "model": "noextraenergy:block/electric_furnace_opened_off",
+      "y": 180
+    },
+    "on=false,opened=true,facing=west": {
+      "model": "noextraenergy:block/electric_furnace_opened_off",
+      "y": 270
+    },
+
+    "on=true,opened=true,facing=north": {
+      "model": "noextraenergy:block/electric_furnace_opened_on"
+    },
+    "on=true,opened=true,facing=east": {
+      "model": "noextraenergy:block/electric_furnace_opened_on",
+      "y": 90
+    },
+    "on=true,opened=true,facing=south": {
+      "model": "noextraenergy:block/electric_furnace_opened_on",
+      "y": 180
+    },
+    "on=true,opened=true,facing=west": {
+      "model": "noextraenergy:block/electric_furnace_opened_on",
+      "y": 270
+    }
+  }
+}

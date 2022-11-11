@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "noextraenergy:block/electric_furnace_plug",
+    "east": "noextraenergy:block/electric_furnace_side",
+    "north": "noextraenergy:block/electric_furnace_front_closed_on",
+    "particle": "noextraenergy:block/electric_furnace_side",
+    "south": "noextraenergy:block/electric_furnace_plug",
+    "up": "noextraenergy:block/electric_furnace_plug",
+    "west": "noextraenergy:block/electric_furnace_side"
+  }
+}
