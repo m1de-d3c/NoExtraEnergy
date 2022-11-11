@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "noextraenergy",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha",
 
   "name": "No Extra Energy",
   "description": "",
@@ -9,8 +9,8 @@
     "MORAS"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/m1de-d3c/NoExtraEnergy",
+    "sources": "https://github.com/m1de-d3c/NoExtraEnergy"
   },
 
   "license": "The GNU General Public License v3.0",

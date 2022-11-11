@@ -11,6 +11,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class ModMixin {
 	@Inject(at = @At("HEAD"), method = "init()V")
 	private void init(CallbackInfo info) {
-		ModConfig.LOGGER.info("Mixin initialize for modification " + ModConfig.MOD_ID);
+		ModConfig.LOGGER.info("Mixin initialize for modification " + ModConfig.IDENTIFIER.toString());
 	}
 }
